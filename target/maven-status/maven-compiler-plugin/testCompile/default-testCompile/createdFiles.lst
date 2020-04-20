@@ -1,0 +1,4 @@
+com\QACompany\app\SeleniumTest.class
+com\QACompany\app\AppiumTest.class
+com\QACompany\app\AppTest.class
+com\QACompany\app\RestApiTest.class

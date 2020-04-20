@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="1110" started-at="2020-04-15T15:22:09 IST" finished-at="2020-04-15T15:22:10 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1110" started-at="2020-04-15T15:22:09 IST" finished-at="2020-04-15T15:22:10 IST">
+      <class name="com.QACompany.app.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:com.QACompany.app.SeleniumTest@3f49dace]" name="BrowserAutomation" duration-ms="0" started-at="2020-04-15T15:22:10 IST" finished-at="2020-04-15T15:22:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="UIAutomation()[pri:0, instance:com.QACompany.app.SeleniumTest@3f49dace]" name="UIAutomation" duration-ms="0" started-at="2020-04-15T15:22:10 IST" finished-at="2020-04-15T15:22:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIAutomation -->
+      </class> <!-- com.QACompany.app.SeleniumTest -->
+      <class name="com.QACompany.app.AppiumTest">
+        <test-method status="PASS" signature="AppAutomation()[pri:0, instance:com.QACompany.app.AppiumTest@5f2108b5]" name="AppAutomation" duration-ms="24" started-at="2020-04-15T15:22:10 IST" finished-at="2020-04-15T15:22:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppAutomation -->
+        <test-method status="PASS" signature="MobileAutomation()[pri:0, instance:com.QACompany.app.AppiumTest@5f2108b5]" name="MobileAutomation" duration-ms="1" started-at="2020-04-15T15:22:10 IST" finished-at="2020-04-15T15:22:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+      </class> <!-- com.QACompany.app.AppiumTest -->
+      <class name="com.QACompany.app.RestApiTest">
+        <test-method status="PASS" signature="ApiAutomation()[pri:0, instance:com.QACompany.app.RestApiTest@31a5c39e]" name="ApiAutomation" duration-ms="0" started-at="2020-04-15T15:22:10 IST" finished-at="2020-04-15T15:22:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiAutomation -->
+        <test-method status="PASS" signature="RestAutomation()[pri:0, instance:com.QACompany.app.RestApiTest@31a5c39e]" name="RestAutomation" duration-ms="3" started-at="2020-04-15T15:22:10 IST" finished-at="2020-04-15T15:22:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAutomation -->
+      </class> <!-- com.QACompany.app.RestApiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

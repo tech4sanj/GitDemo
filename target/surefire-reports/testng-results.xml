@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="146" started-at="2020-04-15T16:02:20 IST" finished-at="2020-04-15T16:02:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="146" started-at="2020-04-15T16:02:20 IST" finished-at="2020-04-15T16:02:20 IST">
+      <class name="com.QACompany.app.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:com.QACompany.app.SeleniumTest@192b07fd]" name="BrowserAutomation" duration-ms="21" started-at="2020-04-15T16:02:20 IST" finished-at="2020-04-15T16:02:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="UIAutomation()[pri:0, instance:com.QACompany.app.SeleniumTest@192b07fd]" name="UIAutomation" duration-ms="0" started-at="2020-04-15T16:02:20 IST" finished-at="2020-04-15T16:02:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIAutomation -->
+      </class> <!-- com.QACompany.app.SeleniumTest -->
+      <class name="com.QACompany.app.RestApiTest">
+        <test-method status="PASS" signature="ApiAutomation()[pri:0, instance:com.QACompany.app.RestApiTest@64bfbc86]" name="ApiAutomation" duration-ms="1" started-at="2020-04-15T16:02:20 IST" finished-at="2020-04-15T16:02:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiAutomation -->
+        <test-method status="PASS" signature="RestAutomation()[pri:0, instance:com.QACompany.app.RestApiTest@64bfbc86]" name="RestAutomation" duration-ms="1" started-at="2020-04-15T16:02:20 IST" finished-at="2020-04-15T16:02:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAutomation -->
+      </class> <!-- com.QACompany.app.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
